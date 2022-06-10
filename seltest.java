@@ -1,3 +1,3 @@
-Public class seltest{
+public class seltest{
     
 }
