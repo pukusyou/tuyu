@@ -7,6 +7,7 @@ public class test {
         System.out.println("gandou");
         System.out.println("gandou");
         System.out.println("gandou");
+        System.out.println("verygoodggyeah")
     } 
 }
 
