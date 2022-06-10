@@ -9,6 +9,7 @@ public class test {
         System.out.println("gandou");
         System.out.println("gandou");
         System.out.println("oooooo");
+        System.out.println("aaaa");
     } 
 }
 
